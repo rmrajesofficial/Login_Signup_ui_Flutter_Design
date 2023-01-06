@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
+A simple Login_Signup UI design made with flutter for Android / IOS
 
-This project is a starting point for a Flutter application.
+##Screenshot
+<img width="298" alt="Screenshot 2023-01-06 at 1 22 25 PM" src="https://user-images.githubusercontent.com/106443376/211035536-92e3696a-0a6e-4226-a37b-3bc5ba3b0969.png">
+<img width="295" alt="Screenshot 2023-01-06 at 1 22 49 PM" src="https://user-images.githubusercontent.com/106443376/211035560-9fb96364-8b94-4342-903d-ae0819c14e94.png">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
